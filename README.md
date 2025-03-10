@@ -1,2 +1,1 @@
-# Core-Java-Final-Project-Ecommerce
-A Core Java Final Project for an E-commerce application typically involves building the foundational backend components of an e-commerce system using Java, without relying on frameworks like Spring or advanced technologies such as microservices. 
+It sounds like you're looking for a Core Java project idea related to Library Management. A Library Management System (LMS) is a popular project that involves various concepts such as object-oriented programming, file handling, and GUI development, all of which are perfect for honing your Java skills.
